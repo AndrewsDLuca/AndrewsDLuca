@@ -1,4 +1,4 @@
-> ### Hi there 👋
+> ### Hi everyone 👋
 
 👋🏽 Meu nome é **Andrews Dluca**, tenho 21 anos de idade e atualmente vivo em Bélem, Pára.
 
