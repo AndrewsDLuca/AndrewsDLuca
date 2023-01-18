@@ -16,6 +16,6 @@ Sou estudante Web Full stack e tenho desenvolvido algumas habilidades, como:
 
 
 como me achar:
-[![LinkedIn Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/andrewsdluca/])]([https://www.linkedin.com/in/andrewsdluca/])
 
+[![LinkedIn Badge](https://img.shields.io/badge/-andrewsdluca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewsdluca/)]([https://www.linkedin.com/in/andrewsdluca/)
 
