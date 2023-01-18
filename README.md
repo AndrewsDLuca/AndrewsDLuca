@@ -1,4 +1,4 @@
-> ### Hi everyone 👋[^note]
+> # Hi everyone 👋
 
  ![This is an image](https://media.tenor.com/57LTD3DOmq0AAAAC/treecko-pokemon.gif)
  
