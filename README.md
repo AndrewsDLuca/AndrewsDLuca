@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👋🏽 Meu nome é ### Andrews Dluca, tenho 21 anos de idade e atualmente vivo em Bélem, Pára.
+👋🏽 Meu nome é **Andrews Dluca**, tenho 21 anos de idade e atualmente vivo em Bélem, Pára.
 
-Sou estudante Web Full stack e tenho desenvolvido algumas habilidades, como:
+**Sou estudante Web Full stack e tenho desenvolvido algumas habilidades, como:**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@ Sou estudante Web Full stack e tenho desenvolvido algumas habilidades, como:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-como me achar:
+**como me achar:**
 
 [![LinkedIn Badge](https://img.shields.io/badge/-andrewsdluca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewsdluca/)]([https://www.linkedin.com/in/andrewsdluca/)
 
