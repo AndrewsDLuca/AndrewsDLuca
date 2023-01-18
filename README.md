@@ -2,7 +2,8 @@
 
  ![This is an image](https://media.tenor.com/57LTD3DOmq0AAAAC/treecko-pokemon.gif)
  
-👋🏽 Meu nome é **Andrews Dluca**, tenho 21 anos de idade e atualmente vivo em Bélem, Pára.                            
+👋🏽 Meu nome é **Andrews Dluca**, tenho 21 anos de idade e atualmente vivo em Bélem, Pára. 
+
 **Sou estudante Web Full stack e tenho desenvolvido algumas habilidades, como:**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
