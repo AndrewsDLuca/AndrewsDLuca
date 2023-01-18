@@ -1,4 +1,4 @@
-> # a wild developer appeared 👋
+> # a wild developer appeared !!! :dash:
 
  ![This is an image](https://media.tenor.com/57LTD3DOmq0AAAAC/treecko-pokemon.gif)
  
