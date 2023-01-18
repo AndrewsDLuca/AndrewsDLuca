@@ -23,3 +23,4 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-andrewsdluca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewsdluca/)]([https://www.linkedin.com/in/andrewsdluca/)
 
+[![AndrewsDLuca GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewsDLuca)](https://github.com/AndrewsDLuca/github-readme-stats)
