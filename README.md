@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋🏽 Meu nome é Andrews Dluca, tenho 21 anos de idade e atualmente vivo em Bélem, Pára.
+👋🏽 Meu nome é ### Andrews Dluca, tenho 21 anos de idade e atualmente vivo em Bélem, Pára.
 
 Sou estudante Web Full stack e tenho desenvolvido algumas habilidades, como:
 
