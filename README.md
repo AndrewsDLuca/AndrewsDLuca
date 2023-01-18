@@ -23,5 +23,4 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-andrewsdluca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewsdluca/)]([https://www.linkedin.com/in/andrewsdluca/)
 
-![AndrewsDLuca GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewsDLuca&show_icons=true&theme=merko)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewsDLuca)](https://github.com/anuraghazra/github-readme-stats)
-
+![AndrewsDLuca GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewsDLuca&show_icons=true&theme=merko)
